@@ -1,4 +1,6 @@
 import "./App.css";
+import DemoUseRef from "./components/DemoUseRef";
+import IndexColor from "./components/LiftingState/IndexColor";
 // import UseContext from "./components/DemoUseContext/UseContext";
 // import DemoUseReducer from "./components/DemoUseReducer";
 // import DemoUseEffect from "./components/DemoUseEffect";
@@ -8,7 +10,7 @@ import "./App.css";
 // import TaskList from "./components/TaskList";
 // import Nhietdo from "./components/Nhietdo";
 // import DemoAgain from "./components/DemoAgain";
-import TodoList from "./components/TodoList";
+// import TodoList from "./components/TodoList";
 
 function App() {
   return (
@@ -23,7 +25,9 @@ function App() {
       {/* <UseContext /> */}
       {/* <DemoUseReducer /> */}
       {/* <DemoAgain /> */}
-      <TodoList />
+      {/* <TodoList /> */}
+      {/* <DemoUseRef /> */}
+      <IndexColor />
     </div>
   );
 }

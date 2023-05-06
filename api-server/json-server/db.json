@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "course": "json-server",
+      "time": 1200
+    },
+    {
+      "id": 2,
+      "course": "ReactJS",
+      "time": 1400
+    },
+    {
+      "course": "JAVA",
+      "time": 1600,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "course": "NextJS",
+      "time": 1800
+    },
+    {
+      "id": 5,
+      "course": "Ruby",
+      "time": 2000
+    },
+    {
+      "course": "Rikkei Academy",
+      "id": 7
+    }
+  ]
+}
